@@ -1,6 +1,6 @@
-# Implementation of linear regression with regularization.
+## Implementation of linear regression model with regularization.
 
-## The implementation contains:
+### The implementation contains:
 
  1.Linear regression closed form solution using least square formulation.
 
